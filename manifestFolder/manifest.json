@@ -1,0 +1,8 @@
+{
+"containerId": "ABC123",
+"cargo":[
+{"name": "food supplies", "weight": 200},
+{"name": "equipment", "weight":500 }
+],
+"unit": "kg"
+}
